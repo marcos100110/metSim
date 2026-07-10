@@ -1,0 +1,18 @@
+Package: metSim
+Type: Package
+Title: Simulation of Multi-Environment Trial (MET) Networks and Model Comparison
+Version: 1.0.0
+Authors@R: person("Marcos", "Filho", role = c("aut", "cre"),
+                  email = "you@example.com")
+Description: Tools to simulate multi-environment breeding trials (MET) with a
+    known ground truth and to compare genotype-by-environment (GxE) models
+    (main effect, compound symmetry, factor-analytic and others) fitted with
+    'ASReml-R'. Beta release, in active development.
+License: GPL-3
+URL: https://github.com/marcos100110/metSim
+BugReports: https://github.com/marcos100110/metSim/issues
+Encoding: UTF-8
+Depends: R (>= 4.0)
+Imports: MASS, Matrix, dplyr, tidyr, ggplot2, sn
+Suggests: asreml
+RoxygenNote: 7.3.2

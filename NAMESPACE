@@ -1,0 +1,19 @@
+# NAMESPACE for metSim (hand-written).
+# Exports every top-level object whose name does NOT start with a dot;
+# internal helpers are named with a leading "." and stay unexported.
+# You can later regenerate this with roxygen2 once @export tags are added.
+
+exportPattern("^[^.]")
+
+import(stats)
+import(utils)
+import(graphics)
+import(grDevices)
+import(methods)
+import(MASS)
+import(Matrix)
+import(dplyr)
+import(tidyr)
+import(ggplot2)
+import(asreml)
+import(sn)
