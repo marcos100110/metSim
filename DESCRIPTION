@@ -3,7 +3,7 @@ Type: Package
 Title: Simulation of Multi-Environment Trial (MET) Networks and Model Comparison
 Version: 1.0.0
 Authors@R: person("Marcos", "Filho", role = c("aut", "cre"),
-                  email = "you@example.com")
+                  email = "marcos.a.godoy.f@gmail.com")
 Description: Tools to simulate multi-environment breeding trials (MET) with a
     known ground truth and to compare genotype-by-environment (GxE) models
     (main effect, compound symmetry, factor-analytic and others) fitted with
