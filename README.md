@@ -3,6 +3,8 @@
 R tools to simulate multi-environment breeding trials (MET) and compare models for
 genotype-by-environment (GxE).
 
+https://github.com/marcos100110/metSim/tree/main
+
 ## What it is
 
 metSim makes simulated trial data where the true answer is known. It fits several
